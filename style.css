@@ -1,4 +1,6 @@
-
+body * {
+    font-family: 'Roboto', sans-serif;
+}
 
 body {
     background-color: rgb(231, 177, 114);
@@ -7,13 +9,15 @@ body {
 #conteiner {
     width: 900px;
     margin: 100px auto 0;
-    border: 1px green solid;
+    border: 1px aliceblue solid;
     background-color: aliceblue;
     border-radius: 40px;
 }
 
 #cacau-e-banana h1 {
     text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
 }
 
 #cacau-e-banana img {
@@ -43,6 +47,7 @@ body {
 }
 
 #cacau-e-banana li {
-    border: 1px red solid;
+    border: 1px solid red;
     margin: 20px;
+    padding-right: 20px;
 }
