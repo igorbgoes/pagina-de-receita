@@ -1,7 +1,7 @@
 
 
 body {
-    background-color: orange;
+    background-color: rgb(231, 177, 114);
 }
 
 #conteiner {
@@ -20,5 +20,29 @@ body {
     display: block;
     margin: auto;
     border-radius: 20px;
+    width: 800px;
+    height: 500px;
 }
 
+#cacau-e-banana p {
+    display: block;
+    text-align: right;
+    color: gray;
+}
+
+#cacau-e-banana h2 {
+    text-align: center;
+    margin: 40px auto auto;
+}
+
+#cacau-e-banana ul {
+    font-size: 20px;
+    margin: 30px 0;
+
+    
+}
+
+#cacau-e-banana li {
+    border: 1px red solid;
+    margin: 20px;
+}
