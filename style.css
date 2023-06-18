@@ -1,0 +1,24 @@
+
+
+body {
+    background-color: orange;
+}
+
+#conteiner {
+    width: 900px;
+    margin: 100px auto 0;
+    border: 1px green solid;
+    background-color: aliceblue;
+    border-radius: 40px;
+}
+
+#cacau-e-banana h1 {
+    text-align: center;
+}
+
+#cacau-e-banana img {
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+}
+
