@@ -8,10 +8,11 @@ body {
 
 #conteiner {
     width: 900px;
-    margin: 100px auto 0;
+    margin: 100px auto 20px;
     border: 1px aliceblue solid;
     background-color: aliceblue;
     border-radius: 40px;
+    
 }
 
 #cacau-e-banana h1 {
@@ -28,12 +29,6 @@ body {
     height: 500px;
 }
 
-#cacau-e-banana p {
-    display: block;
-    text-align: right;
-    color: gray;
-}
-
 #cacau-e-banana h2 {
     text-align: center;
     margin: 40px auto auto;
@@ -47,7 +42,35 @@ body {
 }
 
 #cacau-e-banana li {
-    border: 1px solid red;
+    
     margin: 20px;
     padding-right: 20px;
+}
+
+#descricao-imagem p {
+    color: gray;
+    margin-left: 580px;
+    margin-right: 50px;
+    
+}
+
+#fonte-receita {
+    color: gray;
+    margin-left: 58px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+#fonte-receita a {
+    color: rgb(32, 209, 200);
+}
+
+footer {
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+footer a {
+    color: rgb(7, 112, 107);
 }
